@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :sheep: I'm Alta!
+
+- :microscope: MD/PhD student
+- :seedling: :computer: Bioengineering
+
 
 <!--
 **amsteward/amsteward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
